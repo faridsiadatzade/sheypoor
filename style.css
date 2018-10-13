@@ -1,0 +1,167 @@
+*
+{
+	margin:0;
+	direction:rtl;
+	font-family:'FontAwesome';
+}
+
+body{
+	background-color:#F9F9F9;
+}
+
+@font-face
+{
+	font-family:'FontAwesome';
+	src:url('/sheypoor/fonts/FontAwesome.otf');
+}
+
+#header
+{
+	height:75px;
+	width:auto;
+	background-color: #0078c1;
+	margin-bottom:10px;
+}
+
+#header1
+{
+	width:22%;
+	height:100%;
+	direction:ltr;
+	float:right;
+	padding-top:.5%;
+}
+
+#header2
+{
+	width:33%;
+	height:100%;
+	text-align:center;
+	float:right;
+	color:#F8F8F8;
+	font-size:18px;
+	font-weight:bold;
+	padding-top:1.8%;
+}
+
+#header3
+{
+	text-align:center;
+	color:#F8F8F8;
+	font-size:18px;
+	font-weight:bold;
+	padding-top:1%;
+}
+
+#btn
+{
+	align-content:center;
+	width:150px;
+	background-color:#10DA34;
+	height:45px;
+	color:#F8F8F8;
+	border-radius:2px;
+	border-style:hidden;
+	border-color:#0A8714;
+	font-size:18px;
+	font-weight:bold;
+}
+#space
+{
+	margin-right:3%;
+}
+
+#niaz
+{
+	height:90px;
+	margin-right:200px;
+	width:80%;
+}
+
+#niaz1
+{
+	text-align:right;
+	font-size:26px;
+	margin-left:70%;
+}
+
+#niaz2
+{
+	font-size:19px;
+	margin-top:13px;
+}
+
+#map
+{
+	height:550px;
+	width:100%;
+	color: #0078c1;
+	margin-top:25px;
+}
+#map_img
+{
+	float:right;
+	height:100%;
+	width:60%;
+	text-align:center;
+}
+
+#map_name
+{
+	float:right;
+	height:100%;
+	width:40%;
+	line-height:30px;
+}
+
+#map_name_1
+{
+	float:right;
+}
+
+#map_name_2
+{
+	float:left;
+	width:50%;
+}
+
+#footer
+{
+	height:200px;
+	width:auto;
+	background-color:#EFE7E8;
+}
+
+#footer1
+{
+	margin-right:200px;
+	padding-top:35px;
+	font-size:18px;
+	float:right;
+	color:#0078c1;
+	padding-left:350px;
+}
+
+#footer2
+{
+	padding-top:13px;
+}
+
+#image_footer
+{
+	padding-top:16px;
+}
+
+#bottom1
+{
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-right:200px;
+	padding-left:320px;
+	float:right;
+}
+
+#bottom2
+{
+	padding:15px;
+}
